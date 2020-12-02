@@ -37,4 +37,5 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: # This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  # footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: Brought to you with &#x2661; by [gripfastistech.com](gripfastistech.com) and powered by [Upptime](https://upptime.js.org)
