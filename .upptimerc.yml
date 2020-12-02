@@ -4,17 +4,17 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Grip Fast Information Systems & Technology 
+  - name: ![Icon](https://gripfastistech.com/templates/purity_iii/favicon.ico) Grip Fast Information Systems & Technology 
     url: https://gripfastistech.com
-  - name: Grip Fast Artworks
+  - name: ![Icon](https://gripfastart.works/images/icon.ico) Grip Fast Artworks
     url: https://gripfastart.works
-  - name: B-K Lighting, Inc.
+  - name: ![Icon](https://bklighting.com/templates/bklighting/favicon.ico) B-K Lighting, Inc.
     url: https://bklighting.com
-  - name: TEKA Illumination
+  - name: ![Icon](https://tekaillumination.com/templates/tekaillumination/favicon.ico) TEKA Illumination
     url: https://tekaillumination.com
-  - name: Broken Site
+  - name: ![Icon]() Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
+  - name: ![Icon]() Secret Site
     url: $SECRET_SITE
 
 status-website:
@@ -24,13 +24,13 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  # introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #  - title: GitHub
+  #    href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
