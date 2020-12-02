@@ -4,17 +4,17 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: ![Icon](https://gripfastistech.com/templates/purity_iii/favicon.ico) Grip Fast Information Systems & Technology 
+  - ![Icon](https://gripfastistech.com/templates/purity_iii/favicon.ico) name: Grip Fast Information Systems & Technology 
     url: https://gripfastistech.com
-  - name: ![Icon](https://gripfastart.works/images/icon.ico) Grip Fast Artworks
+  - ![Icon](https://gripfastart.works/images/icon.ico) name: Grip Fast Artworks
     url: https://gripfastart.works
-  - name: ![Icon](https://bklighting.com/templates/bklighting/favicon.ico) B-K Lighting, Inc.
+  - ![Icon](https://bklighting.com/templates/bklighting/favicon.ico) name: B-K Lighting, Inc.
     url: https://bklighting.com
-  - name: ![Icon](https://tekaillumination.com/templates/tekaillumination/favicon.ico) TEKA Illumination
+  - ![Icon](https://tekaillumination.com/templates/tekaillumination/favicon.ico) name: TEKA Illumination
     url: https://tekaillumination.com
-  - name: ![Icon]() Broken Site
+  - ![Icon]() name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: ![Icon]() Secret Site
+  - ![Icon]() name: Secret Site
     url: $SECRET_SITE
 
 status-website:
