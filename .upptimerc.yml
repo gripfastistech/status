@@ -4,7 +4,6 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - url: /assets/gfist.ico
   - name: Grip Fast Information Systems & Technology 
     url: https://gripfastistech.com
   - name: Grip Fast Artworks
@@ -36,3 +35,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
