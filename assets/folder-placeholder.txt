@@ -1,0 +1,1 @@
+This is just a dummy file to keep the assets folder from being deleted as files are moved in and out of the folder.
