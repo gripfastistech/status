@@ -24,7 +24,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://gripfastistech.com/images/gryphon_background.svg
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
+  name: Status: Real-time and historical data on system performance.
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
@@ -37,4 +37,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: # This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
