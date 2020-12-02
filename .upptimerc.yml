@@ -4,7 +4,7 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - image:"/assets/gfist.ico" name: Grip Fast Information Systems & Technology 
+  - image:/assets/gfist.ico name: Grip Fast Information Systems & Technology 
     url: https://gripfastistech.com
   - name: Grip Fast Artworks
     url: https://gripfastart.works
