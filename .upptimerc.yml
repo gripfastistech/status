@@ -12,6 +12,8 @@ sites:
     url: https://bklighting.com
   - name: TEKA Illumination
     url: https://tekaillumination.com
+  - name: DLC
+    url: http://64.166.54.199:6201/
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Secret Site
