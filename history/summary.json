@@ -2,22 +2,27 @@
   {
     "name": "Grip Fast Information Systems & Technology",
     "url": "https://gripfastistech.com",
+    "icon": "https://gripfastistech.com/templates/purity_iii/favicon.ico",
     "slug": "grip-fast-information-systems-and-technology",
     "status": "up",
-    "uptime": "89.02%",
+    "uptime": "91.13%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.02%",
-    "uptimeMonth": "89.02%",
-    "uptimeYear": "89.02%",
-    "time": 1412,
-    "timeDay": 474,
-    "timeWeek": 1412,
-    "timeMonth": 1412,
-    "timeYear": 1412
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "91.13%",
+    "uptimeYear": "91.13%",
+    "time": 1300,
+    "timeDay": 462,
+    "timeWeek": 1300,
+    "timeMonth": 1300,
+    "timeYear": 1300,
+    "dailyMinutesDown": {
+      "2020-12-04": 659
+    }
   },
   {
     "name": "Grip Fast Artworks",
     "url": "https://gripfastart.works",
+    "icon": "https://gripfastart.works/images/icon.ico",
     "slug": "grip-fast-artworks",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +30,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 268,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234
+    "time": 233,
+    "timeDay": 226,
+    "timeWeek": 233,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {}
   },
   {
     "name": "B-K Lighting, Inc.",
     "url": "https://bklighting.com",
+    "icon": "https://bklighting.com/templates/bklighting/favicon.ico",
     "slug": "b-k-lighting-inc",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +48,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1124,
-    "timeDay": 1242,
-    "timeWeek": 1124,
-    "timeMonth": 1124,
-    "timeYear": 1124
+    "time": 1116,
+    "timeDay": 1067,
+    "timeWeek": 1116,
+    "timeMonth": 1116,
+    "timeYear": 1116,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TEKA Illumination",
     "url": "https://tekaillumination.com",
+    "icon": "https://tekaillumination.com/templates/tekaillumination/favicon.ico",
     "slug": "teka-illumination",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +66,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1712,
-    "timeDay": 1764,
-    "timeWeek": 1712,
-    "timeMonth": 1712,
-    "timeYear": 1712
+    "time": 1864,
+    "timeDay": 2852,
+    "timeWeek": 1864,
+    "timeMonth": 1864,
+    "timeYear": 1864,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DLC",
     "url": "http://64.166.54.199:6201/",
+    "icon": "https://favicons.githubusercontent.com/64.166.54.199",
     "slug": "dlc",
     "status": "up",
     "uptime": "100.00%",
@@ -73,15 +84,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 216,
-    "timeWeek": 225,
-    "timeMonth": 225,
-    "timeYear": 225
+    "time": 215,
+    "timeDay": 190,
+    "timeWeek": 215,
+    "timeMonth": 215,
+    "timeYear": 215,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -93,22 +106,33 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "96.48%",
+    "uptime": "95.68%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.42%",
-    "uptimeMonth": "86.29%",
-    "uptimeYear": "96.48%",
+    "uptimeWeek": "26.30%",
+    "uptimeMonth": "83.04%",
+    "uptimeYear": "95.68%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-08": 27,
+      "2020-12-07": 1440,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 203
+    }
   }
 ]
