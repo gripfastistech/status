@@ -3,7 +3,7 @@ owner: gripfastistech # Your GitHub username
 repo: status # Your Github repository name
 
 status-page:
-  css: "nav.svelte-1pyc7i4.svelte-1pyc7i4 { background-color: #000000; }"
+  css: ".svelte-1pyc7i4 { background-color: #000000; }"
 
 # Add your sites here
 sites:
