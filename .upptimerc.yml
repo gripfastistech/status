@@ -34,9 +34,23 @@ status-website:
       href: /
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/gripfastistech/status/master/css
+  .chartjs-render-monitor {
+    filter: hue-rotate(-167deg) saturate(136.5%) brightness(80%)
+  }
+  css:
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: var(--color-dark2);
+      color: var(--color-light2);
+    }
+    article {
+      background-color: var(--color-dark1);
+    }
+    nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 {
+      background: var(--color-dark3);
+      border-bottom: 1px solid var(--color-dark5);
+    }
+  }
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
