@@ -34,10 +34,10 @@ status-website:
       href: /
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
+  css:
   .chartjs-render-monitor {
     filter: hue-rotate(-167deg) saturate(136.5%) brightness(80%)
   }
-  css:
   @media (prefers-color-scheme: dark) {
     body {
       background-color: var(--color-dark2);
