@@ -35,10 +35,15 @@ status-website:
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
   css:
-    ".chartjs-render-monitor { filter: hue-rotate(-167deg) saturate(136.5%) brightness(80%); }
+    "
+    article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; }
+    article.good.svelte-1uadwzk { background-color: green; color: darkgrey; }
+    article.down { border-left: 0.2rem solid darkred; }
+    chartjs-render-monitor { filter: hue-rotate(-167deg) saturate(136.5%) brightness(80%); }
     body { background-color: #000000; color: darkgrey; }
-    article { background-color: var(--color-dark1); }
-    nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #000000; border-bottom: 1px solid silver; }"
+    article { background-color: ; }
+    nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #000000; border-bottom: 1px solid silver; }
+    "
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
