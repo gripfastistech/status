@@ -21,10 +21,6 @@ sites:
     icon: https://tekaillumination.com/templates/tekaillumination/favicon.ico
   - name: DLC
     url: http://64.166.54.199:6201/
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-#  - name: Secret Site
-#    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
