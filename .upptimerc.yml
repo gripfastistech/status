@@ -36,8 +36,8 @@ status-website:
   #    href: https://github.com/$OWNER/$REPO
   css:
     "
-    article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; }
-    article.good.svelte-1uadwzk { color: darkgrey; }
+    article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; background-color: #000; }
+    article.good.svelte-1uadwzk { background-color: green; color: darkgrey; }    
     article.up { border-left: 0.2rem solid green; }    
     article.down { border-left: 0.2rem solid darkred; }
     chartjs-render-monitor { filter: hue-rotate(-167deg) saturate(136.5%) brightness(80%); }
