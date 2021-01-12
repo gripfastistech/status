@@ -2,8 +2,8 @@
 owner: gripfastistech # Your GitHub username
 repo: status # Your Github repository name
 
-# status-page:
-#  css: "body { background-color: #000000; }"
+status-website:
+  css: "body { background: #fafaf6; }"
 
 # Add your sites here
 sites:
