@@ -2,9 +2,6 @@
 owner: gripfastistech # Your GitHub username
 repo: status # Your Github repository name
 
-status-website:
-  css: "body { background: #fafaf6; }"
-
 # Add your sites here
 sites:
   - name: Grip Fast Information Systems & Technology 
