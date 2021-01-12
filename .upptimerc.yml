@@ -31,13 +31,14 @@ status-website:
   # introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Home
-      href: /
+      href: https://gripfastistech.com
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
   css:
     "
     article { border: 1px solid #101010; padding: 1rem 1.25rem; position: relative; border-radius: 0; }
-    article.good.svelte-1uadwzk { background-color: green; color: darkgrey; }
+    article.good.svelte-1uadwzk { color: darkgrey; }
+    article.up { border-left: 0.2rem solid green; }    
     article.down { border-left: 0.2rem solid darkred; }
     chartjs-render-monitor { filter: hue-rotate(-167deg) saturate(136.5%) brightness(80%); }
     body { background-color: #000000; color: darkgrey; }
