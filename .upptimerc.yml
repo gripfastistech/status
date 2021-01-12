@@ -34,8 +34,9 @@ status-website:
       href: /
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
-  
-  css: "body { background: #000000; }"
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/gripfastistech/status/master/css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
