@@ -46,7 +46,8 @@ status-website:
     nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #000000; border-bottom: 1px solid silver; }
     .tag { border-radius: 0; }
     .tag.closed, .tag.up { background-color: green; }
-    .chartjs-render-monitor { animation: chartjs-render-animation 0.001s; filter: saturate(1480); }   
+    .chartjs-render-monitor { animation: chartjs-render-animation 0.001s; filter: saturate(1480); }
+    article.svelte-uyma2x.svelte-uyma2x.svelte-uyma2x { filter: grayscale(100%); }
     "
 
 # Upptime also supports notifications, assigning issues, and more
