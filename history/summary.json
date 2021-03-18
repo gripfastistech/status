@@ -79,19 +79,19 @@
     "url": "http://64.166.54.199:6201/",
     "icon": "https://favicons.githubusercontent.com/64.166.54.199",
     "slug": "dlc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 277,
-    "timeWeek": 279,
+    "timeDay": 280,
+    "timeWeek": 280,
     "timeMonth": 278,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-03-18": 0
+      "2021-03-18": 10
     }
   }
 ]
