@@ -43,7 +43,8 @@ status-website:
     chartjs-render-monitor { filter: hue-rotate(-167deg) saturate(136.5%) brightness(80%); }
     body { background-color: #000000; color: darkgrey; }
     article { background-color: #070707; }
-    nav { background: var(--nav-background-color); }
+    nav { background-color: #000000; }
+    nav.svelte-a08hsz.svelte-a08hsz { background-color: #000000;}
     nav.svelte-1pyc7i4.svelte-1pyc7i4, nav.svelte-1sgaob0.svelte-1sgaob0 { background: #000000; border-bottom: 1px solid silver; }
     .tag { border-radius: 0; }
     .tag.closed, .tag.up { background-color: green; }
