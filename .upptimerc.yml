@@ -10,6 +10,8 @@ sites:
   - name: Grip Fast Artworks
     url: https://gripfastart.works
     icon: https://gripfastart.works/images/icon.ico
+  - name: Puppy1
+    url: http://73.2.124.46:80
   - name: B-K Lighting, Inc.
     url: https://bklighting.com
     icon: https://bklighting.com/templates/bklighting/favicon.ico
