@@ -40,9 +40,9 @@
     "url": "https://bklighting.com",
     "icon": "https://bklighting.com/templates/bklighting/favicon.ico",
     "slug": "b-k-lighting-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -52,6 +52,7 @@
     "timeMonth": 1508,
     "timeYear": 1329,
     "dailyMinutesDown": {
+      "2021-09-13": 0,
       "2021-01-13": 39,
       "2021-01-12": 22
     }
