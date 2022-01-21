@@ -4,10 +4,10 @@
     "url": "https://gripfastistech.com",
     "icon": "https://gripfastistech.com/templates/purity_iii/favicon.ico",
     "slug": "grip-fast-information-systems-and-technology",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 551,
@@ -16,6 +16,7 @@
     "timeMonth": 374,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2022-01-21": 2,
       "2021-10-14": 27,
       "2021-09-25": 44
     }
@@ -25,10 +26,10 @@
     "url": "https://gripfastart.works",
     "icon": "https://gripfastart.works/images/icon.ico",
     "slug": "grip-fast-artworks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 283,
@@ -37,6 +38,7 @@
     "timeMonth": 249,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2022-01-21": 1,
       "2021-12-14": 21,
       "2021-09-25": 44
     }
@@ -46,10 +48,10 @@
     "url": "https://bklighting.com",
     "icon": "https://bklighting.com/templates/bklighting/favicon.ico",
     "slug": "b-k-lighting-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 1188,
@@ -58,6 +60,7 @@
     "timeMonth": 813,
     "timeYear": 1190,
     "dailyMinutesDown": {
+      "2022-01-21": 1,
       "2022-01-14": 16,
       "2021-11-10": 31,
       "2021-09-13": 36
@@ -68,9 +71,9 @@
     "url": "https://tekaillumination.com",
     "icon": "https://tekaillumination.com/templates/tekaillumination/favicon.ico",
     "slug": "teka-illumination",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,6 +83,7 @@
     "timeMonth": 1582,
     "timeYear": 1804,
     "dailyMinutesDown": {
+      "2022-01-21": 0,
       "2021-07-23": 17
     }
   }
