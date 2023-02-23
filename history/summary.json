@@ -74,9 +74,9 @@
     "url": "https://tekaillumination.com",
     "icon": "https://tekaillumination.com/templates/tekaillumination/favicon.ico",
     "slug": "teka-illumination",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -86,6 +86,7 @@
     "timeMonth": 1688,
     "timeYear": 1713,
     "dailyMinutesDown": {
+      "2023-02-23": 0,
       "2022-05-17": 193,
       "2022-03-09": 39,
       "2022-03-07": 17
