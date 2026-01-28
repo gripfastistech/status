@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
     "time": 587,
-    "timeDay": 641,
-    "timeWeek": 700,
+    "timeDay": 686,
+    "timeWeek": 676,
     "timeMonth": 689,
-    "timeYear": 593,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-10-03": 30,
       "2025-08-13": 19,
@@ -25,8 +25,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 339,
-      "2025-03-26": 20,
-      "2025-01-28": 17
+      "2025-03-26": 20
     }
   },
   {
@@ -41,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
     "time": 345,
-    "timeDay": 184,
-    "timeWeek": 348,
-    "timeMonth": 336,
+    "timeDay": 203,
+    "timeWeek": 343,
+    "timeMonth": 327,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2025-08-13": 19,
@@ -54,8 +53,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 339,
-      "2025-03-26": 20,
-      "2025-01-28": 17
+      "2025-03-26": 20
     }
   },
   {
@@ -65,14 +63,14 @@
     "slug": "b-k-lighting-inc",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "86.63%",
-    "uptimeWeek": "96.48%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "96.51%",
     "uptimeMonth": "97.76%",
     "uptimeYear": "98.84%",
     "time": 503,
-    "timeDay": 318,
-    "timeWeek": 408,
-    "timeMonth": 433,
+    "timeDay": 311,
+    "timeWeek": 375,
+    "timeMonth": 428,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2026-01-27": 130,
@@ -158,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1875,
-    "timeDay": 1171,
-    "timeWeek": 1173,
-    "timeMonth": 1317,
-    "timeYear": 1861,
+    "time": 1874,
+    "timeDay": 1121,
+    "timeWeek": 1133,
+    "timeMonth": 1306,
+    "timeYear": 1859,
     "dailyMinutesDown": {}
   }
 ]
