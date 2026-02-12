@@ -12,8 +12,8 @@
     "uptimeYear": "98.86%",
     "time": 594,
     "timeDay": 717,
-    "timeWeek": 845,
-    "timeMonth": 763,
+    "timeWeek": 862,
+    "timeMonth": 764,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2025-10-03": 30,
@@ -41,8 +41,8 @@
     "uptimeYear": "98.87%",
     "time": 347,
     "timeDay": 108,
-    "timeWeek": 413,
-    "timeMonth": 375,
+    "timeWeek": 403,
+    "timeMonth": 377,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-08-13": 19,
@@ -61,16 +61,16 @@
     "url": "https://bklighting.com",
     "icon": "https://bklighting.com/templates/bklighting/favicon.ico",
     "slug": "b-k-lighting-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "93.28%",
-    "uptimeWeek": "95.43%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "96.05%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.40%",
     "time": 499,
-    "timeDay": 406,
-    "timeWeek": 497,
-    "timeMonth": 480,
+    "timeDay": 364,
+    "timeWeek": 523,
+    "timeMonth": 475,
     "timeYear": 504,
     "dailyMinutesDown": {
       "2026-02-12": 65,
@@ -138,8 +138,7 @@
       "2025-10-21": 47,
       "2025-10-18": 20,
       "2025-10-09": 36,
-      "2025-10-07": 20,
-      "2025-09-28": 15
+      "2025-10-07": 20
     }
   },
   {
@@ -155,9 +154,9 @@
     "uptimeYear": "100.00%",
     "time": 1868,
     "timeDay": 1250,
-    "timeWeek": 1415,
-    "timeMonth": 1395,
-    "timeYear": 1838,
+    "timeWeek": 1393,
+    "timeMonth": 1394,
+    "timeYear": 1833,
     "dailyMinutesDown": {}
   }
 ]
