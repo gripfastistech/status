@@ -53,16 +53,16 @@
     "url": "https://bklighting.com",
     "icon": "https://bklighting.com/templates/bklighting/favicon.ico",
     "slug": "b-k-lighting-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "90.29%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "90.28%",
     "uptimeMonth": "94.55%",
     "uptimeYear": "98.96%",
     "time": 506,
-    "timeDay": 434,
-    "timeWeek": 557,
-    "timeMonth": 528,
+    "timeDay": 413,
+    "timeWeek": 549,
+    "timeMonth": 526,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2026-04-18": 92,
@@ -121,8 +121,7 @@
       "2026-01-20": 113,
       "2026-01-16": 79,
       "2026-01-15": 63,
-      "2026-01-13": 28,
-      "2026-01-11": 25
+      "2026-01-13": 28
     }
   },
   {
